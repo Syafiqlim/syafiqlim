@@ -27,7 +27,7 @@
     <p> Interfaces & Protocols : UART, I2C, SPI, BLE, WiFi, TCP/IP, UDP, HTTP/HTTPS, MQTT, GSM/LTE, 5G, LoRa, CoAP, Modbus, SSH </p>
     <p> RTOS : FreeRTOS </p>
     <p> Debugging : JTAG, OpenOCD </p>
-    <p> Electronic Circuits Design, PCB Design, THT & SMT Soldering, testing & troubleshooting (multimeter, osciloscope)</p>
+    <p> Electronic Circuits Design, PCB Design, THT & SMT Soldering, testing & troubleshooting (multimeter, oscilloscope)</p>
     <h4>Web Development Skills : </h4>
     <p> Front-End : HTML, CSS, JavaScript, React, Vite
     <br> Back-End : Node.js (JavaScript, TypeScript), Express.js, MySQL </p>
