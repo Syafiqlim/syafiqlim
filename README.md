@@ -74,12 +74,12 @@
 
 <div align="left">
     <h3>Some of my achievements/certifications : </h3>
-    <p>- Arcitura Certified IoT Architect </p>
-    <p>- WorldSkills Malaysia Belia Electronics participant (2023) </p>
-    <p>- Google Cloud Skill Badges </p>
-    <p>- Google Developer Skill Badges </p>
-    <p>- Codered Certificates of Achievements (Cyber Security courses) </p>
-    <p>- EDIAs 32nd and PERKAYA 25th Gold (Best Innovation) Awardee (2024) </p>
+    <br>- Arcitura Certified IoT Architect
+    <br>- WorldSkills Malaysia Belia Electronics participant (2023)
+    <br>- Google Cloud Skill Badges
+    <br>- Google Developer Skill Badges
+    <br>- Codered Certificates of Achievements (Cyber Security courses)
+    <br>- EDIAs 32nd and PERKAYA 25th Gold (Best Innovation) Awardee (2024)
 </div>
 
 ###
