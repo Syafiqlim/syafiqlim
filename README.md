@@ -1,6 +1,7 @@
-  <img align="center" src="https://i.postimg.cc/4NGsHWYd/8tc3q1.gif" height="120"/>
+<div align="center"> 
+  <img src="https://i.postimg.cc/4NGsHWYd/8tc3q1.gif" height="120"/>
   <img width="40" />
-###
+</div>
 
 <h1 align="center">hey bun :3 🫓🫶</h1>
 
