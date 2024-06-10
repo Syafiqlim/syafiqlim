@@ -74,7 +74,7 @@
 
 <div align="left">
     <h3>Some of my achievements/certifications : </h3>
-    <br>- Arcitura Certified IoT Architect
+    - Arcitura Certified IoT Architect
     <br>- WorldSkills Malaysia Belia Electronics participant (2023)
     <br>- Google Cloud Skill Badges
     <br>- Google Developer Skill Badges
