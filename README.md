@@ -1,4 +1,4 @@
-  <img src="https://imgflip.com/embed/8tc3q1" height="40" alt="go logo"  />
+  <img src="https://i.postimg.cc/4NGsHWYd/8tc3q1.gif" height="40"/>
   <img width="12" />
 ###
 
