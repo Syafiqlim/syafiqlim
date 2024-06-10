@@ -31,8 +31,8 @@
     <p> Debugging : JTAG, OpenOCD </p>
     <p> Electronic Circuits Design, PCB Design, THT & SMT Soldering, testing & troubleshooting (multimeter, osciloscope)</p>
     <h4>Web Development Skills : </h4>
-    <p> Front-End : HTML, CSS, JavaScript, React, Vite </p>
-    <p> Back-End : Node.js (JavaScript, TypeScript), Express.js, MySQL </p>
+    <p> Front-End : HTML, CSS, JavaScript, React, Vite
+    <br> Back-End : Node.js (JavaScript, TypeScript), Express.js, MySQL </p>
 </div>
 
 <br>
@@ -74,12 +74,12 @@
 
 <div align="left">
     <h3>Some of my achievements/certifications : </h3>
-    - Arcitura Certified IoT Architect
+    <p> - Arcitura Certified IoT Architect
     <br>- WorldSkills Malaysia Belia Electronics participant (2023)
     <br>- Google Cloud Skill Badges
     <br>- Google Developer Skill Badges
     <br>- Codered Certificates of Achievements (Cyber Security courses)
-    <br>- EDIAs 32nd and PERKAYA 25th Gold (Best Innovation) Awardee (2024)
+    <br>- EDIAs 32nd and PERKAYA 25th Gold (Best Innovation) Awardee (2024) </p>
 </div>
 
 ###
