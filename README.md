@@ -64,8 +64,6 @@
   <img width="12" />
   <img src="https://devicon-website.vercel.app/api/googlecloud/original.svg" height="40" alt="go logo"  />
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/azure/original.svg" height="40" alt="go logo"  />
-  <img width="12" />
   <img src="https://devicon-website.vercel.app/api/linux/original.svg" height="40" alt="go logo"  />
   <img width="12" />
   <img src="https://devicon-website.vercel.app/api/ubuntu/plain-wordmark.svg" height="40" alt="go logo"  />
