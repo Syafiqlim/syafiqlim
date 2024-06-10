@@ -21,11 +21,10 @@
 ###
 <div align="left">
     <h4>Programming languages : </h4>
-    <p> C/C++ (including C Preprocessor), Embedded C (Arduino-based, STM32-based, PIC18/32), <br> JavaScript, TypeScript, Python, SQL, Bash Scripting </p>
+    <p> C/C++ (including C Preprocessor), Embedded C (Arduino-based, STM32-based, PIC18/32), JavaScript, TypeScript, Python, SQL, Bash Scripting </p>
     <h4>IoT, Embedded & Electronic Skills : </h4>
     <p> uC : Arduino-based uC, ESP32/8266, STM32-based uC, Raspberry Pi </p>
-    <p> Interfaces & Protocols : UART, I2C, SPI, BLE, WiFi, TCP/IP, UDP, HTTP/HTTPS, MQTT,
-    <br> GSM/LTE, 5G, LoRa, CoAP, Modbus, SSH </p>
+    <p> Interfaces & Protocols : UART, I2C, SPI, BLE, WiFi, TCP/IP, UDP, HTTP/HTTPS, MQTT, GSM/LTE, 5G, LoRa, CoAP, Modbus, SSH </p>
     <p> RTOS : FreeRTOS </p>
     <p> Debugging : JTAG, OpenOCD </p>
     <p> Electronic Circuits Design, PCB Design, THT & SMT Soldering, testing & troubleshooting (multimeter, osciloscope)</p>
