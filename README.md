@@ -24,10 +24,10 @@
     <p> C/C++ (including C Preprocessor), Embedded C (Arduino-based, STM32-based, PIC18/32), JavaScript, TypeScript, Python, SQL, Bash Scripting </p>
     <h4>IoT, Embedded & Electronic Skills : </h4>
     <p> uC : Arduino-based uC, ESP32/8266, STM32-based uC, Raspberry Pi <br>
-    <p> Interfaces & Protocols : UART, I2C, SPI, BLE, WiFi, TCP/IP, UDP, HTTP/HTTPS, MQTT, GSM/LTE, 5G, LoRa, CoAP, Modbus, SSH <br>
-    <p> RTOS : FreeRTOS <br>
-    <p> Debugging : JTAG, OpenOCD <br>
-    <p> Electronic Circuits Design, PCB Design, THT & SMT Soldering, testing & troubleshooting (multimeter, oscilloscope)<br>
+     Interfaces & Protocols : UART, I2C, SPI, BLE, WiFi, TCP/IP, UDP, HTTP/HTTPS, MQTT, GSM/LTE, 5G, LoRa, CoAP, Modbus, SSH <br>
+     RTOS : FreeRTOS <br>
+     Debugging : JTAG, OpenOCD <br>
+     Electronic Circuits Design, PCB Design, THT & SMT Soldering, testing & troubleshooting (multimeter, oscilloscope) </p>
     <h4>Web Development Skills : </h4>
     <p> Front-End : HTML, CSS, JavaScript, React, Vite
     <br> Back-End : Node.js (JavaScript, TypeScript), Express.js, MySQL </p>
