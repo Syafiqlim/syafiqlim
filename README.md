@@ -1,5 +1,5 @@
-  <img src="https://i.postimg.cc/4NGsHWYd/8tc3q1.gif" height="40"/>
-  <img width="12" />
+  <img align="center" src="https://i.postimg.cc/4NGsHWYd/8tc3q1.gif" height="120"/>
+  <img width="40" />
 ###
 
 <h1 align="center">hey bun :3 🫓🫶</h1>
