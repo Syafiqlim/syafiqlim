@@ -22,7 +22,6 @@
 <div align="left">
     <h4>Programming languages : </h4>
     <p> C/C++ (including C Preprocessor), Embedded C (Arduino-based, STM32, PIC18/32), <br> JavaScript, TypeScript, Python, SQL </p>
-    <br>
     <h4>IoT, Embedded & Electronic Skills : </h4>
     <p> uC : Arduino-based uC, ESP32/8266, STM32-based uC, Raspberry Pi </p>
     <p> Interfaces & Protocols : UART, I2C, SPI, BLE, WiFi, TCP/IP, UDP, 
