@@ -29,7 +29,10 @@
     <p> RTOS : FreeRTOS
     <br>
     <p> Debugging : JTAG, OpenOCD </p>
-    <p> Electronic Circuits Design, PCB Design, THT & SMT Soldering, testing & troubleshooting (multimeter, osciloscope)
+    <p> Electronic Circuits Design, PCB Design, THT & SMT Soldering, testing & troubleshooting (multimeter, osciloscope)</p>
+    <h4>Web Development Skills : </h4>
+    <p> Front-End : HTML, CSS, JavaScript, React, Vite </p>
+    <p> Back-End : Node.js (JavaScript, TypeScript), MySQL </p>
 </div>
 
 <br>
