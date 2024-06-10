@@ -32,7 +32,7 @@
     <p> Electronic Circuits Design, PCB Design, THT & SMT Soldering, testing & troubleshooting (multimeter, osciloscope)</p>
     <h4>Web Development Skills : </h4>
     <p> Front-End : HTML, CSS, JavaScript, React, Vite </p>
-    <p> Back-End : Node.js (JavaScript, TypeScript), MySQL </p>
+    <p> Back-End : Node.js (JavaScript, TypeScript), Express.js, MySQL </p>
 </div>
 
 <br>
