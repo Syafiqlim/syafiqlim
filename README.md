@@ -12,7 +12,7 @@
   <h3>About me?</h3>
 </div>
 
-<p align="left">Syafiqlim.<br><br>- 👨‍🎓 Computer Engineering student <br>- 👨‍💻 Engineer Intern (IoT & Embedded System Engineering) at iRadar Sdn Bhd (<a href="https://iradar.com.my/">iradar.com.my</a>)<br>- ⚡ IoT, Embedded System, Tech, Web Dev tech stack enthusiast</p>
+<p align="left">Syafiqlim.<br><br>- 👨‍🎓 Computer Engineering student <br>- 👨‍💻 Engineer Intern (IoT & Embedded System Engineering) at iRadar Sdn Bhd (<a href="https://iradar.com.my/">iradar.com.my</a>)<br>- ⚡ IoT, Embedded System, Tech, Web development tech stack enthusiast</p>
 
 ###
 
