@@ -30,11 +30,11 @@
      Electronic Circuits Design, PCB Design, THT & SMT Soldering, testing & troubleshooting (multimeter, oscilloscope) </p>
     <h4>Web Development Skills : </h4>
     <p> Front-End : HTML, CSS, JavaScript, React, Vite
-    <br> Back-End : Node.js (JavaScript, TypeScript), Express.js, MySQL </p>
+    <br> Back-End : Node.js (JavaScript, TypeScript), Express.js, MySQL, Firebase </p>
     <h4>Linux Distro familiarities : </h4>
     <p> Debian-based, Ubuntu-based</p>
     <h4> Cloud Technology : </h4>
-    <p> Google Cloud Platform, AWS, Digital Ocean, Vercel
+    <p> Google Cloud Platform, Firebase, AWS, Digital Ocean, Vercel
 </div>
 
 <br>
