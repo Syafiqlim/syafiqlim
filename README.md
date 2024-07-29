@@ -12,7 +12,7 @@
   <h3>About me?</h3>
 </div>
 
-<p align="left">Syafiqlim.<br><br>- 👨‍🎓 Computer Engineering student <br>- 👨‍💻 Engineer Intern (IoT & Embedded System Software Engineering) at iRadar Sdn Bhd (<a href="https://iradar.com.my/">iradar.com.my</a>)<br>- ⚡ IoT, Embedded System, Tech, Web development tech stack enthusiast</p>
+<p align="left">Syafiqlim.<br><br>- 👨‍🎓 Computer Engineering student <br>- 👨‍💻 Engineering Intern (IoT & Embedded System Software Engineering) at iRadar Sdn Bhd (<a href="https://iradar.com.my/">iradar.com.my</a>)<br>- ⚡ IoT, Embedded System, Tech enjoyer </p>
 
 ###
 
@@ -21,20 +21,23 @@
 ###
 <div align="left">
     <h4>Programming languages : </h4>
-    <p> C/C++ (including C Preprocessor), Embedded C (Arduino-based, STM32-based, PIC18/32), JavaScript, TypeScript, Python, SQL, Bash Scripting </p>
+    <p> C/C++ (including C Preprocessor), Embedded C (Arduino-based, STM32-based, PIC18/32), JavaScript, TypeScript, Python, SQL </p>
     <h4>IoT, Embedded & Electronic Skills : </h4>
     <p> uC : Arduino-based uC, ESP32/8266, STM32-based uC, PIC18/32-based uC, Raspberry Pi <br>
-     Interfaces & Protocols : UART, I2C, SPI, BLE, WiFi, TCP/IP, UDP, HTTP/HTTPS, MQTT, GSM/LTE, 5G, LoRa, CoAP, Modbus, SSH <br>
+     Interfaces & Protocols : UART, I2C, SPI, BLE, WiFi, TCP/IP, UDP, HTTP/HTTPS, MQTT, GSM/LTE, LoRa, CoAP, Modbus, SSH <br>
      RTOS : FreeRTOS <br>
      Debugging : JTAG, OpenOCD <br>
      Electronic Circuits Design, PCB Design, THT & SMT Soldering, testing & troubleshooting (multimeter, oscilloscope) </p>
     <h4>Web Development Skills : </h4>
-    <p> Front-End : HTML, CSS, JavaScript, React, Vite
-    <br> Back-End : Node.js (JavaScript, TypeScript), Express.js, MySQL, Firebase </p>
+    <p> Runtime : Node.js
+    <br> Front-End : HTML, CSS, JavaScript, React
+    <br> Back-End : Express.js, MySQL, Firebase </p>
     <h4>Linux Distro familiarities : </h4>
     <p> Debian-based, Ubuntu-based</p>
     <h4> Cloud Technology : </h4>
-    <p> Google Cloud Platform, Firebase, AWS, Digital Ocean, Vercel
+    <p> Google Cloud Platform, Firebase, AWS, Digital Ocean, Vercel </p>
+    <h4> Software Development : </h4>
+    <p> Electron JS, Python </p>
 </div>
 
 <br>
