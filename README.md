@@ -16,7 +16,7 @@
 
 ###
 
-<h3 align="left">🛠 Skills, Languages, Tools</h3>
+<h3 align="left">🛠 Skills & Tools</h3>
 
 ###
 <div align="left">
