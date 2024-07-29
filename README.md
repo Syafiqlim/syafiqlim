@@ -23,7 +23,7 @@
     <h4>Programming languages : </h4>
     <p> C/C++ (including C Preprocessor), Embedded C (Arduino-based, STM32-based, PIC18/32), JavaScript, TypeScript, Python, SQL </p>
     <h4>IoT, Embedded & Electronic Skills : </h4>
-    <p> uC : Arduino-based uC, ESP32/8266, STM32-based uC, PIC18/32-based uC, Raspberry Pi/Pi Pico <br>
+    <p> uC : Arduino-based uC, ESP32/8266, Raspberry Pi/Pi Pico, STM32-based uC, PIC18/32-based uC <br>
      Interfaces & Protocols : UART, I2C, SPI, BLE, WiFi, TCP/IP, UDP, HTTP/HTTPS, MQTT, GSM/LTE, LoRa, CoAP, Modbus, SSH <br>
      RTOS : FreeRTOS <br>
      Debugging : JTAG, OpenOCD <br>
